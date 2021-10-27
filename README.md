@@ -4,7 +4,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://img.icons8.com/color/48/000000/php.png">
   <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
-  <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
 </div>
 <br>
 <div>
