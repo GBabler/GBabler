@@ -1,9 +1,3 @@
-<div>
-  <a href="https://github.com/GBabler">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GBabler&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBabler&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
 <div style="display: inline_block"><br>
 
   <img align="center" alt="img" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
@@ -15,6 +9,12 @@
   
 </div>
   
+
+<div>
+  <a href="https://github.com/GBabler">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GBabler&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GBabler&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 ##
  
 <div> 
